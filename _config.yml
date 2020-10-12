@@ -2,63 +2,50 @@ url: https://y7kim.github.io
 baseurl: /agency-jekyll-theme/
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: KF Labs
+email: mfa@wp.pl
+description: "Applying Natural Language Processing to real world problems and business challanges."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Michal Falenski
   pic: 1
-  position: Lead Designer
+  position: Software Architect
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
+      url: https://twitter.com/fala133
     - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
+      url: https://stackoverflow.com/users/3323967/fala
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/falenski/
+    - title: github
+      url: https://github.com/fala13
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
+- name: Enrica Troiano
+  pic: 2
+  position: NLP Researcher
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: Univerisity page
+      url: https://www.ims.uni-stuttgart.de/en/institute/team/Troiano/
+
+- name: Elie Khoury
+  pic: 3
+  position: Enterprise Architect
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/eliekhoury/
+    - title: github
+      url: https://github.com/slonoko
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/kf-labs
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: There is no presence like the online presence.
 
 # Build settings
 markdown: kramdown
